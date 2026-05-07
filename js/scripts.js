@@ -63,7 +63,7 @@ const init = () => {
           texture:
 <!--          'https://raw.githubusercontent.com/supahfunk/supah-codepen/master/user-default-avatar.jpg'  -->
 <!--        'https://github.com/bbauska/thankyou-5000/blob/main/images/kitterson.jpg?raw=true' } -->
-        '../images/bauska.jpg?raw=true' }
+        '../images/70-Bauska.jpg?raw=true' }
       }
     })
   })
